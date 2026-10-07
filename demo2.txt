@@ -3,3 +3,5 @@ if num>0:
    print("Num is positive") # to check whether the num is +ve
 elif num<0:
    print("Num is negative") #filter if the num is -ve
+else:
+   print("Num is Zero") 
