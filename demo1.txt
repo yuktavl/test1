@@ -1,3 +1,5 @@
 a=10
 if a%2==0:
-   print("a is even")
+   print("a is even") # to know whether the num is even
+elif a%2!=0:
+   print("a is odd") # to know whether the num id odd
